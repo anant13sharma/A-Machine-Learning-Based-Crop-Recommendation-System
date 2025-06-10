@@ -4,22 +4,11 @@ A machine learning-based crop recommendation system trained on 69K+ samples. It 
 ---
 
 ## Dataset
-The dataset used is a mixed dataset created by combining various publicly available Indian datasets, including sources like **Kaggle**, **ICAR - Indian Agricultural Research Institute**, and **Rajasthan Agricultural Research Institute (RARI)**. It includes data related to:
 
-- Soil nutrients (N, P, K)
-- Soil pH
-- Temperature
-- Rainfall
-- Humidity
+The dataset used in this project was compiled by the **Indian Council of Agricultural Research (ICAR)** and made publicly available by the **Indian Chamber of Food and Agriculture (ICFA)**. It includes soil nutrient ratios (N, P, K, C, S, Mg, Fe, Mn), pH levels, temperature, humidity, and rainfall data across 69,718 samples covering 22 crops.
 
-### Features
-1. Rainfall (mm)
-2. Temperature (°C)
-3. Humidity (%)
-4. pH level
-5. Nitrogen (N)
-6. Phosphorus (P)
-7. Potassium (K)
+- **Source:** Indian Chamber of Food and Agriculture (ICFA)  
+- **Accessed from:** [Figshare - Crop Recommendation Dataset](https://figshare.com/articles/dataset/Crop_Recommendation_dataset/26308696)
 
 ### Target
 - Multiclass output: Crop name (22 classes)
