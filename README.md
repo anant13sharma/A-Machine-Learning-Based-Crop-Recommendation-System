@@ -70,7 +70,5 @@ The dataset used in this project was compiled by the **Indian Council of Agricul
 - Develop a user-friendly web interface or mobile app for farmer use
 
   
-## Acknowledgements
-- Thanks to publicly available datasets from Kaggle, ICAR, and RARI.
 
 ---
